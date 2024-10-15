@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar17072004&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar17072004" /> </p>
 
-- 🔭 I’m currently working on [Smart-Contracts](https://github.com/prakhar17072004/Smart_Contracts_project)
+- 🔭 I’m currently working on [Nextjs]()
 
-- 💬 Ask me about **MERN,JAVA,C,Web3**
+- 💬 Ask me about " My Web Development Journey "
 
 - 📫 How to reach me **mprakhar422@gmail.com**
 
