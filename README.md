@@ -18,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakhar17072004&show_icons=true&locale=en&layout=compact" alt="prakhar17072004" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakhar17072004&show_icons=true&locale=en" alt="prakhar17072004" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakhar17072004&" alt="prakhar17072004" /></p>
