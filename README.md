@@ -39,8 +39,7 @@
 
 <h2 >📈 GitHub Stats</h2>
 <p >
-  <img src="https://github-readme-stats.vercel.app/api?username=prakhar17072004&show_icons=true&theme=radical" />
-  <br/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar17072004&layout=compact&theme=radical" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakhar17072004&theme=radical" />
