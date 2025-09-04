@@ -64,7 +64,7 @@
 
 <h2 >✨ Fun Fact</h2>
 <p align="center">
-💡 I love solving coding problems on LeetCode and building real-world projects with <b>Java + React + Next.js</b>.
+💡 I love solving coding problems on LeetCode and building real-world projects with <b> React + Next.js+Node.js+PostgresSql</b>.
 </p>
 
 ---
