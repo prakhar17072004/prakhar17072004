@@ -13,10 +13,10 @@
 
 <h2 >🌐 Connect With Me</h2>
 <p ">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/prakharmishra41/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:mprakhar422@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -25,14 +25,14 @@
 
 <h2 >💻 LeetCode Profile</h2>
 <p >
-  <a href="https://leetcode.com/prakhar17072004/">
+  <a href="https://leetcode.com/Prakharmishra41/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
   </a>
 </p>
 
 <h2 >📊 LeetCode Stats</h2>
 <p >
-  <img src="https://leetcard.jacoblin.cool/prakhar17072004?theme=dark&font=Karma&ext=contest"/>
+  <img src="https://leetcard.jacoblin.cool/Prakharmishra41?theme=dark&font=Karma&ext=contest"/>
 </p>
 
 ---
